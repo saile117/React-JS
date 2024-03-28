@@ -55,6 +55,8 @@ function AnimalsList() {
 
     </>
     );
+    
 }
+
 
 export default AnimalsList;

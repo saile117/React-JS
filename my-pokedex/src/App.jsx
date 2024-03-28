@@ -5,6 +5,7 @@ import './App.css'
 import './components/PokemonCards'
 import PokemonCards from './components/PokemonCards'
 
+
 const pokemonList = [
 
 {
